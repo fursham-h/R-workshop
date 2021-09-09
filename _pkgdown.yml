@@ -1,4 +1,4 @@
-url: https://fursham-h.github.io/R-datascience/
+url: https://fursham-h.github.io/R-workshop/
 
 home:
   title: "R workshop for data analysis"
@@ -16,14 +16,13 @@ navbar:
     - text: "Lessons"
       icon: 'fas fa-book-open'
       menu:
-        - text: "1) R Basics for Data Analysis"
-          href: articles/1_R_basics_for_data_analysis/Overview.html
-        - text: "2) Data visualisation using R"
-          href: articles/2_Data_visualisation_using_R/Overview.html
-        - text: "3) Introduction to RNAseq data analysis"
-          href: articles/3_RNAseq_workflow/Overview.html
-        - text: "4) scRNA-seq analysis using Seurat"
-          href: articles/4_scRNAseq_seurat/Overview.html
+        - text: "1) Basics of R programming"
+          href: articles/1_RBasics/Overview.html
+        - text: "2) Data manipulation using R"
+          href: articles/2_DataManipulation/Overview.html
+        - text: "3) Data visualisation using R"
+          href: articles/3_DataVisualisation/Overview.html
+
   right:
     - icon: 'fab fa-github fa-lg'
       href: https://github.com/fursham-h/R-datascience
