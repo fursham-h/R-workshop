@@ -1,0 +1,55 @@
+---
+title: 'Lesson 3: Data visualisation using R'
+author: "Fursham Hamid"
+output: html_document
+---
+
+> ### Overview
+><br />
+> **Duration**: 2 hours
+><br />
+><br />
+>
+> **Objectives**
+>
+> 1) Format data-frames for visualisation purposes
+> 2) State the various available R packages for plotting
+> 3) Use ggplot2 to generate publication quality graphics
+> 4) Apply geometry, aesthetic, and statistics layers to a ggplot plot
+> 5) Manipulate the aesthetics of a plot using different colors, shapes, and lines
+> 6) Improve data visualization through transforming scales and paneling by group
+> 7) Save a plot created with ggplot to disk
+><br />
+
+## Before starting the lesson
+To facilitate the timeliness of the lesson, please ensure that you have these 
+programs installed on your computer.
+
+* Latest version of R
+    - [For Windows](https://cran.r-project.org/bin/windows/base/)
+    - [For Mac](https://cran.r-project.org/bin/macosx/)
+    - [For Linux](https://cran.r-project.org/bin/linux/)
+        
+* [Latest version of RStudio](https://rstudio.com/products/rstudio/download/)
+
+<br/ >
+
+## Lesson schedule
+||||
+|:---|:------------|:------------|
+|00:00|[Introduction and overview](https://fursham-h.github.io/R-datascience/articles/2_Data_visualisation_using_R/Lesson_intro.html)| Why visualize data using programming language? |
+|00:10|[1. Data structure for plotting ](https://fursham-h.github.io/R-datascience/articles/2_Data_visualisation_using_R/Lesson_intro.html#datastruct) | How should I format my data to facilitate visualisation in R? <br> How do I reshape my data? |
+|00:20|2. [R packages for data visualisation](https://fursham-h.github.io/R-datascience/articles/2_Data_visualisation_using_R/Lesson_intro.html#rpackages) | What packages can I use to plot data? |
+|00:40|**Break and prepare for hands-on session**||
+|01:00|3. [Creating Publication-Quality Graphics with ggplot2](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html)|  How can I create publication-quality graphics in R?  |
+|02:00|Finish| |
+
+
+
+
+
+
+
+
+
+

@@ -9,7 +9,7 @@ R programming, I employ simple and effective materials
 for you to be able to perform data analysis on your own in no time.
 
 ### What is the structure of this workshop?
-There are 3 key lessons in this workshop;
+There are 3 key lessons in this workshop (click on each of the lessons for an overview);
 
 1. Basics of R programming
 2. Data manipulation using R

@@ -1,0 +1,53 @@
+---
+title: 'Lesson 1: Basics of R programming'
+author: "Fursham Hamid"
+output: html_document
+---
+
+> ### Overview
+><br />
+> **Duration**: 2 hours
+><br />
+><br />
+>
+> **Objectives**
+>
+> 1) Describe the purpose and use of each pane in the RStudio IDE
+> 2) Assign data to a variable
+> 3) Call functions
+> 4) Understand R data structures
+> 5) Subsetting lists
+>
+><br />
+
+## Before starting the lesson
+To facilitate the timeliness of the lesson, please ensure that you have these 
+programs installed on your computer.
+
+* Latest version of R
+    - [For Windows](https://cran.r-project.org/bin/windows/base/)
+    - [For Mac](https://cran.r-project.org/bin/macosx/)
+    - [For Linux](https://cran.r-project.org/bin/linux/)
+        
+* [Latest version of RStudio](https://rstudio.com/products/rstudio/download/)
+
+## Lesson schedule
+||||
+|:---|:------------|:------------|
+|00:00|Introduction and overview||
+|00:15|1.   [Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How do I navigate around RStudio? |
+|00:20|2.   [Basic R commands](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How do I interact with R? <br>How do I use R functions?  |
+|00:50|Break||
+|01:00|3.   [Data structures](http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html) | How are data represented in R |
+|01:30|4.  [Subsetting data](http://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/index.html)| How do I manipulate lists?  |
+|01:50|Finish| |
+
+
+
+
+
+
+
+
+
+
