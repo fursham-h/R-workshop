@@ -1,0 +1,11 @@
+Package: R.Workshop
+Title: R workshop for Data Analysis
+Version: 0.99.0
+Authors@R: person("Fursham", "Hamid", 
+    email = "fursham.h@gmail.com", 
+    role = c("aut", "cre"))
+Depends: R (>= 4.0)
+Suggests: 
+  rmarkdown,
+  rmdformats
+VignetteBuilder: knitr
