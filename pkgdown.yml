@@ -1,8 +1,11 @@
 pandoc: 2.7.3
 pkgdown: 1.6.1
 pkgdown_sha: ~
-articles: {}
-last_built: 2021-09-09T12:11Z
+articles:
+  1_RBasics/Overview: Overview.html
+  2_DataManipulation/Overview: Overview.html
+  3_DataVisualisation/Overview: Overview.html
+last_built: 2021-09-09T12:25Z
 urls:
   reference: https://fursham-h.github.io/R-workshop//reference
   article: https://fursham-h.github.io/R-workshop//articles
