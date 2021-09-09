@@ -2,8 +2,8 @@ pandoc: 2.7.3
 pkgdown: 1.6.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2021-09-09T11:17Z
+last_built: 2021-09-09T12:11Z
 urls:
-  reference: https://fursham-h.github.io/R-datascience//reference
-  article: https://fursham-h.github.io/R-datascience//articles
+  reference: https://fursham-h.github.io/R-workshop//reference
+  article: https://fursham-h.github.io/R-workshop//articles
 
