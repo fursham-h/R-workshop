@@ -16,7 +16,7 @@ There are 3 key lessons in this workshop (click on each of the lessons for an ov
 3. [Data visualisation using R](https://fursham-h.github.io/R-workshop/articles/3_DataVisualisation/Overview.html)
 
 Each lesson is 2 hours long, and will be conducted via Zoom (details will be given upon registration).
-I charge £30 per lesson, but a £10 discount will be given if you sign up for all three lessons.
+I charge £30 per lesson, but a £15 discount will be given if you sign up for all three lessons.
 
 ### When are lessons conducted?
 Currently, the queue for this workshop is short. I am able to do a one-on-one (or small class)
